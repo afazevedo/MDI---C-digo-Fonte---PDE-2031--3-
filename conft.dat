@@ -1,0 +1,59 @@
+  NUM         NOME   SSIS     EX CLASSE UTE IND
+ XXXX XXXXXXXXXXXX   XXXX     XX   XXXX XXXX
+  500 Nuclear           1     NE    500    s
+  507 GNL SE FLEX       1     NC    507    s
+  509 GNL SE 30 SA      1     NC    509    s
+  511 GNCS SE FLEX      1     NE    511    s
+  512 GNCS SE FLEX      1     NE    512    s
+  513 GNNAC SE 70       1     NE    513    s
+  515 GNNAC SE 100      1     NC    515    s
+  517 GNL S FLEX        2     NE    517    s
+  519 GNL S 30 SAZ      2     NC    519    s
+  521 GNCS S FLEX       2     NE    521    s
+  523 GNNAC S 30        2     NC    523    s
+  525 GNNAC S 100       2     NC    525    s
+  527 GNL NE FLEX       3     NC    527    s
+  529 GNL NE 30 SA      3     NC    529    s
+  531 GNCS NE FLEX      3     NE    531    s
+  533 GNNAC NE 70       3     NE    533    s
+  535 GNNAC NE 100      3     NC    535    s
+  537 GNL N FLEX        4     NC    537    s
+  539 GNL N 30 SAZ      4     NC    539    s
+  541 GNCS N FLEX       4     NE    541    s
+  543 GNNAC N 70        4     NE    543    s
+  545 GNNAC N 100       4     NC    545    s
+  547 CAVACO            1     NE    547    s
+  548 CARVAO NAC        2     NE    548    s
+  550 RD A N            4     NE    550    s
+  551 RD A SE           1     NE    551    s
+  552 RD A NE           3     NE    552    s
+  553 RD B N            4     NE    553    s
+  554 RD B NE           3     NE    554    s
+  555 RD B SE           1     NE    555    s
+  556 RD B S            2     NE    556    s
+  557 RD C N            4     NE    557    s
+  558 RD C NE           3     NE    558    s
+  559 RD C SE           1     NE    559    s
+  560 SEROPEDICA        1     NC    560    s
+  561 TRES LAGOAS       1     NE    561    s
+  563 TERMOCEARA        3     NC    563    s
+  564 TERMORIO          1     NE    564    s
+  565 LINHARES          1     NE    565    s
+  566 TERMOMACAE        1     NC    566    s
+  567 VALE DO ACU       3     NC    567    s
+  568 CANOAS            2     NE    568    s
+  569 JUIZ DE FORA      1     NE    569    s
+  570 IBIRITE           1     NE    570    s
+  571 FORTALEZA         3     NE    571    s
+  572 NORTEFLU          1     NE    572    s
+  573 TERMOPE           3     NE    573    s
+  574 N.PIRATINING      1     NC    574    s
+  575 ST.CRUZ NOVA      1     NE    575    s
+  576 APARECIDA         7     NE    576    s
+  577 J.LACERDA C       2     NC    577    s
+  578 J.LACERDA B       2     NC    578    s
+  579 J.LACERDA A1      2     NC    579    s
+  580 J.LACERDA A2      2     NC    580    s
+  581 FIGUEIRA          2     NC    581    s
+  582 CANDIOTA 3        2     NC    582    s
+  660 RD C S            2     NE    660    s

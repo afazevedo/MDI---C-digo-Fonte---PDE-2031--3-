@@ -1,0 +1,6 @@
+Executado por: SSD
+Versao MDI: None
+Versao Planilha: Dados_MDI_PDE_2031 - Cenário Referência.xlsm
+Inicio da Execucao: 29 Aug 2023 12:06:59
+Termino da Execucao: 29 Aug 2023 12:35:33
+Tempo de Execucao: 00:28

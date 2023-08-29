@@ -1,0 +1,35 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: tmpse9zfxwv
+  Lower bound: 872109122900.0
+  Upper bound: 874401148296.0046
+  Number of objectives: 1
+  Number of constraints: 7053196
+  Number of variables: 4562740
+  Number of nonzeros: 71702903
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  User time: 878.92
+  Termination condition: optimal
+  Termination message: MIP - Integer optimal, tolerance (0.005/1e-06)\x3a Objective = 8.7440114830e+11
+  Statistics: 
+    Branch and bound: 
+      Number of bounded subproblems: 0
+      Number of created subproblems: 0
+  Error rc: 0
+  Time: 932.2818281650543
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 0
+  number of solutions displayed: 0
